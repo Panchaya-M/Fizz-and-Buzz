@@ -1,0 +1,9 @@
+.content {
+  display: grid;
+  grid-template-columns: repeat(20,1fr);
+}
+
+.item {
+  padding-top: 10px;
+  padding-right: 10px;
+}
